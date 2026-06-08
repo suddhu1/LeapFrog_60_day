@@ -1,0 +1,11 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner
+Maruti Swift,2018,450000.0,45000,Petrol,Individual,Manual,First Owner
+Honda City,2016,680000.0,72000,Petrol,Dealer,Manual,Second Owner
+Hyundai Creta,2020,1050000.0,30000,Diesel,Dealer,Automatic,First Owner
+Toyota Innova,2015,920000.0,95000,Diesel,Individual,Manual,Third Owner
+Ford EcoSport,2017,520000.0,58000,Petrol,Individual,Manual,First Owner
+Maruti Baleno,2019,390000.0,28000,Petrol,Dealer,Manual,First Owner
+Tata Nexon,2021,780000.0,18000,Petrol,Dealer,Automatic,First Owner
+Volkswagen Polo,2014,280000.0,110000,Petrol,Individual,Manual,Fourth & Above Owner
+Kia Seltos,2022,1200000.0,8000,Petrol,Dealer,Automatic,First Owner
+Renault Duster,2016,,85000,Diesel,Individual,Manual,Second Owner
